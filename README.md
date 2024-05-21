@@ -5,12 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!&center=true&size=30">
   </a>
 </h1>
-<br>
 
 <h3 align="center">
 Love life, love the front end
 </h3>
-</br>
 
 - 🪄  Html5 / Css3 / Javascript / Vue3 / Nuxt / Nest ...
 - 🏀  Basketball / Football / All sports ...
