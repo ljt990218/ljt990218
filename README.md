@@ -15,13 +15,14 @@ Love life, love the front end
 - 🪄  Html5 / Css3 / Javascript / Vue3 / Nuxt / Nest ...
 - 🏀  Basketball / Football / All sports ...
 - 🎮  EAFC(FIFA) / NBA2K / Go ...
+- 📫  How to reach me: ljt990218@gmail.com
 
 ### 📊 Github Stats
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ljt990218&show_icons=true&theme=vue" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ljt990218&show_icons=true&theme=vue" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljt990218&langs_count=8&layout=compact&theme=vue" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljt990218&langs_count=8&layout=compact&theme=vue" />
   </a>
 </div>
