@@ -21,6 +21,6 @@ Love life, love the front end
      <img align="left" height="190px" src="https://github-readme-stats-three-delta-82.vercel.app/api?username=ljt990218&show_icons=true&theme=vue&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" height="190px" src="https://github-readme-stats-three-delta-82.vercel.app/api/top-langs/?username=ljt990218&langs_count=8&layout=compact&theme=vue&count_private=true" />
+    <img align="left" height="190px" src="https://github-readme-stats-three-delta-82.vercel.app/api/top-langs/?username=ljt990218&langs_count=8&layout=compact&theme=vue&count_private=true" />
   </a>
 </div>
