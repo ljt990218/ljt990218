@@ -6,6 +6,10 @@
   </a>
 </h1>
 
+<h2 align="center">
+🎉 2025 💪
+</h2>
+
 <h3 align="center">
 Love life, love the front end
 </h3>
