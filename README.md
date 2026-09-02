@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center" style="padding-bottom: 1em">
-2025 🐍 Good luck! 🎉
+2026 🐎 Good luck! 🎉
 </h2>
 
 <h3 align="center">
